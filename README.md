@@ -1,4 +1,4 @@
-echo "# Engenharia de Software - Pós-Graduação 👨‍💻
+echo "# Engenharia de Software - Pós-Graduação 
 
 Projeto desenvolvido para a disciplina de Engenharia de Software.
 
@@ -13,18 +13,29 @@ Projeto desenvolvido para a disciplina de Engenharia de Software.
 \`\`\`bash
 engenhariaSoftwarePos/
 ├── node_modules/
+
 ├── src/
+
 │   └── index.js
+
 ├── tests/
+
 │   └── index.test.js
+
 ├── .gitignore
+
 ├── package.json
+
 ├── README.md
+
 \`\`\`
 
 ## Como rodar os testes
 
 \`\`\`bash
+
 npm test
+
 \`\`\`
+
 " > README.md
