@@ -11,7 +11,9 @@ Projeto desenvolvido para a disciplina de Engenharia de Software.
 ## Estrutura do projeto
 
 \`\`\`bash
+
 engenhariaSoftwarePos/
+
 ├── node_modules/
 
 ├── src/
